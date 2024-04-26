@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "database",
+    "content": "introduction to db",
+    "departmentId": 1
+  },
+  {
+    "id": 2,
+    "name": "advanced database",
+    "content": "deep dive to db",
+    "departmentId": 1
+  },
+  {
+    "id": 3,
+    "name": "security",
+    "content": "deep dive to db",
+    "departmentId": 2
+  },
+  { "id": 4, "name": "CCNA", "content": "deep dive to db", "departmentId": 2 }
+]
